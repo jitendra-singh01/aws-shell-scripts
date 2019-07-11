@@ -1,4 +1,4 @@
-#script 3 - Setup Cronjob
+#script 2 - Setup Cronjob
 
 # This shell script takes input from user and validates input given by user using the function val_fun and then creates a Cronjob 
 # by the parameters passed by user
